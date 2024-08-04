@@ -1,0 +1,2 @@
+scripts:
+  notebook: cd notebooks && jupyter notebook

@@ -1,0 +1,6 @@
+jupyter
+pandas
+matplotlib==3.9.0
+seaborn
+scikit-learn
+rav
