@@ -3,7 +3,7 @@
 ```bash
     # virtualenv and activate
     python -m venv venv
-    source venv/Scripts/activate (Linux)
+    source venv/bin/activate (Linux)
     venv\Scripts\activate (Windows)
 
     # install packages
